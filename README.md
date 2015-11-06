@@ -29,7 +29,7 @@ For more information about Bitmessage, please visit https://www.bitmessage.org
  * Possibly others that I have forgotten about
  
 ## Installation Instructions
- * Download and install Bitmessage. Make sure it is running and listening via it's API port (https://bitmessage.org/wiki/API_Reference)
+ * Download and install Bitmessage. Make sure it is running and listening via its API port (https://bitmessage.org/wiki/API_Reference)
  * Add a linux user for the software
 ```
 useradd bitmessage
